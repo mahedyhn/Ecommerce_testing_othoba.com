@@ -8,7 +8,7 @@
 ![Failed](https://img.shields.io/badge/Failed-5-red?style=for-the-badge&logo=checkmarx)
 ![Bugs](https://img.shields.io/badge/Bugs%20Found-5-critical?style=for-the-badge&logo=bugsnag)
 
-**Prepared by:** MD Mahedy Hasan &nbsp;|&nbsp; **Website:** [Naiem.Website](https://Naiem.Website)  
+**Prepared by:** MD Mahedy Hasan &nbsp;|&nbsp;
 **Target Site:** [https://othoba.com/](https://othoba.com/) &nbsp;|&nbsp; **Date:** May 2026
 
 ---
